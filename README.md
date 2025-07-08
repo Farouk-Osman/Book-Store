@@ -25,7 +25,7 @@ This is a Java console-based simulation of an online bookstore, showcasing OOP d
 
 > Output from running the full test:
 
-![Running Output](2db3e876-2e70-434e-8cf4-6f8de5472ace.png)
+![Running Output](Screenshot from 2025-07-08 19-27-50.png)
 
 ---
 
