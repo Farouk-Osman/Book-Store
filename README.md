@@ -26,12 +26,3 @@ This is a Java console-based simulation of an online bookstore, showcasing OOP d
 > Output from running the full test:
 
 ![Running Output](Screenshot.png)
-
----
-
-## 🧪 How to Run
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/quantum-bookstore.git
-   cd quantum-bookstore
