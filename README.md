@@ -93,7 +93,7 @@ Here's a brief description of each Java class in the project:
 -   `ShowCaseBook.java`: Extends `Book` to represent books that are for display only and not for sale.
 
 ## UML Diagram
-![UML Class Diagram](class_diagram..png)
+![UML Class Diagram](class_diagram.png)
 
 ## Contributing
 
